@@ -1,0 +1,38 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+
+.addTaskForm {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 2rem;
+}
+
+.task {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+}
+
+.taskButtons {
+  display: flex;
+  gap: 5px;
+}
+
+.dialog {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin: 0 1rem 1rem 1rem;
+}
+
+.flex {
+  display: flex;
+}
+
+.done {
+  text-decoration: line-through;
+}
