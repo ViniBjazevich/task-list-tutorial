@@ -8,6 +8,8 @@
 
 ## Technologies
 
+DynamoDB | Lambda | Amplify | Express | React | Node
+
 ## Helpful Docs
 
 ### Material UI
