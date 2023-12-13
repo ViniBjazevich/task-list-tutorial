@@ -4,7 +4,8 @@
 
 1. Open your terminal and cd into the "ui" directory: `cd ui` then run `npm install` after that finishes installing you can now run `npm start` and your react app will start running on http://localhost:3000/
 2. Open a new terminal (with the react app still running) and cd into the "api" directory: `cd api` then run `npm install` after that is finished installing you can now run `npm run dev` which will run your api on http://localhost:3001/
-3. Assuming you have your DynamoDB set up properly you should be able to use the application now! Enjoy!
+3. Assuming you have your DynamoDB set up properly and updated the API_URL variable in the utils file with your deployed
+API url, you should be able to use the application now! Enjoy!
 
 ## Technologies
 
